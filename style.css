@@ -1,0 +1,73 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+color: #fff;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+body{
+    background-color: #111;
+    overflow-x: hidden;
+}
+.string{
+    width: 100%;
+    height: 200px;
+}
+/* .page1{
+    width: 100%;
+    height: 100%;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 30px;
+    font-size: 24px;
+}
+.nav-items{
+    display: flex;
+    gap: 20px;
+}
+h1{
+position: absolute;
+font-size: 70px;
+white-space: nowrap;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+.page2{
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+}
+.card-container{
+    display: flex;
+    align-items: center;
+    padding-top: 100px;
+    justify-content: space-around;
+    gap: 50px;
+}
+.cards{
+height: 300px;
+width: 200px;
+border-radius: 10px;
+background-color: black;
+}
+.page3{
+    width: 100%;
+    height: 100%;
+    background-color: lightblue;
+}
+.page3> h2{
+    font-size: 40vw;
+    color: #000;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    
+} */
